@@ -1,0 +1,6 @@
+{
+  "name": "The IMovies Platform",
+  "description": "Cinema booking platform with real-time seat reservation, Express.js & MongoDB architecture documentation, ER diagrams, MVC walkthrough, and interactive demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
